@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Nikhitha",
+      "email": "nikhithakilaru@gmail.com",
+      "dob": "2002-01-09",
+      "image": "https://st3.depositphotos.com/11585370/19184/i/600/depositphotos_191843146-stock-photo-skeptical-and-dissatisfied-young-brural.jpg",
+      "id": 1
+    },
+    {
+      "name": "Anil",
+      "email": "anil.kesireddy@gmail.com",
+      "dob": "1999-03-12",
+      "image": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=612x612&w=0&k=20&c=eU56mZTN4ZXYDJ2SR2DFcQahxEnIl3CiqpP3SOQVbbI=",
+      "id": 2
+    },
+    {
+      "name": "Akhila",
+      "email": "akhila.k2k23@gmail.com",
+      "dob": "2003-03-19",
+      "image": "https://media.istockphoto.com/id/1300972573/photo/pleasant-young-indian-woman-freelancer-consult-client-via-video-call.jpg?b=1&s=170667a&w=0&k=20&c=VxVGh1MZrvvnb5xo0wDvlA9LmJ5EuZl24Tq_NPNZiFc=",
+      "id": 3
+    },
+    {
+      "name": "Ramana",
+      "email": "ramanakilaru1973@gmail.com",
+      "dob": "1973-07-10",
+      "image": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=973",
+      "id": 4
+    },
+    {
+      "name": "Abhiram",
+      "email": "kilaruabhiram2003@gmail.com",
+      "dob": "2004-03-10",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 5
+    }
+  ],
+  "removedusers": []
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+.profile-image{
+    max-width: 300px;
+    width: 100%;
+    height: 180px;
+}
+
+.users{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.card{
+    background-image: linear-gradient(#C0C0C0,#FFFAFA);
+}
